@@ -1,3 +1,8 @@
 *
+!/.config
+!/.config/bspwm
+!/.config/bspwm/*
+!/.config/sxhkd
+!/.config/sxhkd/*
 !/.gitignore.d
 !/.gitignore.d/bspwm
