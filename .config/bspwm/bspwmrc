@@ -11,3 +11,6 @@ bspc config focus_by_distance   true
 bspc monitor -d I II III IV V VI VII VIII IX X
 
 bspc rule -a Screenkey manage=off
+
+# background
+xsetroot -solid '#404040'
